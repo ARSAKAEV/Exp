@@ -18,8 +18,9 @@ function Buttons(props) {
 
     function reset(){
         props.setCounter(0)
-    }
+    } 
 
+    //gggggggggggg
     return (
       <div className="buttons">
         <div className="buttons">
