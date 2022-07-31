@@ -20,7 +20,6 @@ function Buttons(props) {
         props.setCounter(0)
     } 
 
-    //gggggggggggg
     return (
       <div className="buttons">
         <div className="buttons">
